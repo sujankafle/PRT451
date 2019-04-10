@@ -1,0 +1,4 @@
+#Thu Apr 11 00:05:47 ACST 2019
+base.0=D\:\\AR Preschool\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

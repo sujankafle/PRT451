@@ -1,0 +1,320 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\02bee24d764065d1f192bb04af060d40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d1d8d20f3cf7ff099f2e824c838081dd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6a05f877a2ea3a9b18736b80fb6b673\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5e159264cfdc955e9c37269b3ad19f4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a954d4bd4902bf2e8074e22b1d1f5715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e357fb0fdf1981120e45638d1348d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33d18c3702051af5e79450141660c238\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c86fbe1790ce3ba36211428af1735e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\952f7252c88753df9fdf3c8b4d20a017\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8cc91277dbf4e4228735444961f103a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6e8338b79da233abd90d3710e801fd63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3b355978a36e9a910ccb4b01625bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a8469daca46fa4e15c8ae8dfcc3d63e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e6a66158872b3d3ed84521062b15c88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9036749dd995e9cc30574a028361007b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d35d250f293b32ac545fa1ce59b5b3f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef73d031b3d40aae37059009c21af09b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\51a6e06784a96fa9f06e37bca2bcc909\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51bc76eef17ec940f81bf7c4152ef2e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1dcc587b911e57863aa62bbf98574a8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7841ad6c7fae8df9cf4788177eb6162\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\022634682e62cb2617c5a7e87ade51b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3511c879d17a0b94e369caffd5fac117\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\24d77879e2b165b3541817e100cc9d73\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ba7c67c45d3137f257d777521040de5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\149e06271c0eb0794ada4109849505f4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:70-103
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:104-150
+	android:versionCode
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:2:151-191
+supports-screens
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:4:3-41:17
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:19:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d1d8d20f3cf7ff099f2e824c838081dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d1d8d20f3cf7ff099f2e824c838081dd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d35d250f293b32ac545fa1ce59b5b3f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d35d250f293b32ac545fa1ce59b5b3f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:6:7-39
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:5:7-38
+	android:theme
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:4:16-47
+activity#com.Company.arpreschool.MainActivity
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:7:5-18:16
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:8:9-47
+	android:label
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:7:15-47
+	android:launchMode
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:9:9-40
+	android:hardwareAccelerated
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:11:9-44
+	android:configChanges
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:10:9-190
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:12:9-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:13:7-16:23
+action#android.intent.action.MAIN
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:15:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:17:7-82
+	android:value
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:17:59-79
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:17:18-58
+activity#com.Company.arpreschool.OnBoardingScreen
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:20:5-87
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:20:48-85
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:20:15-47
+activity#com.Company.arpreschool.OnBoardingScreen2
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:21:5-89
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:21:49-86
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:21:15-48
+activity#com.Company.arpreschool.Menu
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:22:5-76
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:22:36-73
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:22:15-35
+activity#com.Company.arpreschool.aboutUs
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:23:5-88
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:23:39-76
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:23:15-38
+activity#com.Company.arpreschool.UnityPlayerActivity
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:26:5-35:16
+	android:screenOrientation
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:26:51-89
+	android:launchMode
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:27:9-40
+	android:hardwareAccelerated
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:29:9-44
+	android:configChanges
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:28:9-190
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:26:15-50
+meta-data#unity.build-id
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:38:5-101
+	android:value
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:38:46-98
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:38:16-45
+meta-data#unity.splash-mode
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:39:5-69
+	android:value
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:39:49-66
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:39:16-48
+meta-data#unity.splash-enable
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:40:5-74
+	android:value
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:40:51-71
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:40:16-50
+uses-feature#0x00020000
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:43:3-52
+	android:glEsVersion
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:43:17-49
+uses-permission#android.permission.INTERNET
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:44:3-65
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:44:20-62
+uses-permission#android.permission.CAMERA
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:45:3-63
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:45:20-60
+uses-feature#android.hardware.camera
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:46:3-83
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:46:56-80
+		MERGED from D:\AR Preschool\src\main\AndroidManifest.xml:46:56-80
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:46:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:47:3-93
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:47:66-90
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:47:17-65
+uses-feature#android.hardware.camera.front
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:48:3-89
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:48:62-86
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:48:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:49:3-88
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:49:61-85
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:49:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:50:3-99
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:50:72-96
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:50:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:51:3-108
+	android:required
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:51:81-105
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:51:17-80
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:52:3-78
+	android:name
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml:52:20-75
+uses-sdk
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\02bee24d764065d1f192bb04af060d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\02bee24d764065d1f192bb04af060d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d1d8d20f3cf7ff099f2e824c838081dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d1d8d20f3cf7ff099f2e824c838081dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6a05f877a2ea3a9b18736b80fb6b673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e6a05f877a2ea3a9b18736b80fb6b673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5e159264cfdc955e9c37269b3ad19f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5e159264cfdc955e9c37269b3ad19f4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a954d4bd4902bf2e8074e22b1d1f5715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a954d4bd4902bf2e8074e22b1d1f5715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e357fb0fdf1981120e45638d1348d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\29e357fb0fdf1981120e45638d1348d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33d18c3702051af5e79450141660c238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\33d18c3702051af5e79450141660c238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c86fbe1790ce3ba36211428af1735e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c86fbe1790ce3ba36211428af1735e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\952f7252c88753df9fdf3c8b4d20a017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\952f7252c88753df9fdf3c8b4d20a017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8cc91277dbf4e4228735444961f103a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8cc91277dbf4e4228735444961f103a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6e8338b79da233abd90d3710e801fd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6e8338b79da233abd90d3710e801fd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3b355978a36e9a910ccb4b01625bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac3b355978a36e9a910ccb4b01625bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a8469daca46fa4e15c8ae8dfcc3d63e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a8469daca46fa4e15c8ae8dfcc3d63e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e6a66158872b3d3ed84521062b15c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e6a66158872b3d3ed84521062b15c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9036749dd995e9cc30574a028361007b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9036749dd995e9cc30574a028361007b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2101a8d078f507f80492218219e731dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d35d250f293b32ac545fa1ce59b5b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9d35d250f293b32ac545fa1ce59b5b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef73d031b3d40aae37059009c21af09b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef73d031b3d40aae37059009c21af09b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\51a6e06784a96fa9f06e37bca2bcc909\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\51a6e06784a96fa9f06e37bca2bcc909\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51bc76eef17ec940f81bf7c4152ef2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51bc76eef17ec940f81bf7c4152ef2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1dcc587b911e57863aa62bbf98574a8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1dcc587b911e57863aa62bbf98574a8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7841ad6c7fae8df9cf4788177eb6162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7841ad6c7fae8df9cf4788177eb6162\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\022634682e62cb2617c5a7e87ade51b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\022634682e62cb2617c5a7e87ade51b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3511c879d17a0b94e369caffd5fac117\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3511c879d17a0b94e369caffd5fac117\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\24d77879e2b165b3541817e100cc9d73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\24d77879e2b165b3541817e100cc9d73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ba7c67c45d3137f257d777521040de5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ba7c67c45d3137f257d777521040de5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\149e06271c0eb0794ada4109849505f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\149e06271c0eb0794ada4109849505f4\AndroidManifest.xml:20:5-44
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+		ADDED from D:\AR Preschool\src\main\AndroidManifest.xml
+		INJECTED from D:\AR Preschool\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:17:22-78
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Deal\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\2aa7ccf1e1c7ada61df2c0a2f6a6f587\AndroidManifest.xml:28:13-54
