@@ -1,4 +1,4 @@
-package com.Company.arpreschool;
+package com.Androidify.ARPreschool;
 
 import com.unity3d.player.*;
 import android.app.Activity;
@@ -25,6 +25,11 @@ public class UnityPlayerActivity extends Activity
         mUnityPlayer = new UnityPlayer(this);
         setContentView(mUnityPlayer);
         mUnityPlayer.requestFocus();
+
+        Intent intent = new Intent();
+        intent.setClass(this, MusicService.class);
+        stopService(intent);
+
     }
 
     @Override protected void onNewIntent(Intent intent)
