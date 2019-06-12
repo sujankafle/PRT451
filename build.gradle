@@ -44,16 +44,14 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 16
         targetSdkVersion 28
-        applicationId 'com.Company.arpreschool'
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-
+        applicationId 'com.Androidify.ARPreschool'
         ndk {
             abiFilters 'armeabi-v7a', 'x86'
         }
         versionCode 1
-        versionName '0.1'
+        versionName '1.0'
     }
 
     lintOptions {
@@ -61,7 +59,7 @@ android {
     }
 
     aaptOptions {
-        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'vuforia/arpreschooldatabase.dat', 'vuforia/arpreschooldatabase.xml']
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'vuforia/ar_preschool_app.dat', 'vuforia/ar_preschool_app.xml', 'vuforia/vuforiamars_images.dat', 'vuforia/vuforiamars_images.xml']
     }
 
     buildTypes {

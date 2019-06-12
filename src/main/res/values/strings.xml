@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">AR Preschool</string>
+  <string name="app_name">AR Preschool App</string>
   <string name="game_view_content_description">Game view</string>
+  <string name="aboutus">AR Preschool is an
+    interactive educational AR app developed by team Androidify.
+    </string>
+  <string name="onboarding1">This application is an interactive educational augmented reality application</string>
+
+  <string name="onboarding2">Select the Scan from menu and aim at the Marker provided in our website to watch the alphabets come alive</string>
+
 </resources>
