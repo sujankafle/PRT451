@@ -12,43 +12,37 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-public class OnBoardingScreen2 extends AppCompatActivity {
+public class AboutUs extends AppCompatActivity {
 
-    Button back, finish;
-    MediaPlayer button_sound;
-    HomeWatcher mHomeWatcher;
+  HomeWatcher mHomeWatcher;
+  MediaPlayer button_sound;
 
+
+    Button back;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_on_boarding_screen2);
+        setContentView(R.layout.activity_about_us);
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_HIDE_NAVIGATION);
 
         back = findViewById(R.id.back);
-        finish = findViewById(R.id.finish);
+        button_sound= MediaPlayer.create(AboutUs.this, R.raw.button_sound);
 
-        button_sound= MediaPlayer.create(OnBoardingScreen2.this, R.raw.button_sound);
+
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 button_sound.start();
-                Intent intent = new Intent(OnBoardingScreen2.this, OnBoardingScreen.class);
+                Intent intent = new Intent(AboutUs.this, Menu.class);
                 startActivity(intent);
             }
         });
 
-        finish.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                button_sound.start();
-                Intent intent = new Intent(OnBoardingScreen2.this, Menu.class);
-                startActivity(intent);
-            }
-        });
         doBindService();
         Intent music = new Intent();
         music.setClass(this, MusicService.class);
         startService(music);
+
         mHomeWatcher = new HomeWatcher(this);
         mHomeWatcher.setOnHomePressedListener(new HomeWatcher.OnHomePressedListener() {
             @Override
@@ -66,6 +60,7 @@ public class OnBoardingScreen2 extends AppCompatActivity {
         });
         mHomeWatcher.startWatch();
     }
+
     @Override
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
@@ -79,6 +74,7 @@ public class OnBoardingScreen2 extends AppCompatActivity {
                             | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
         }
     }
+
     private boolean mIsBound = false;
     private MusicService mServ;
     private ServiceConnection Scon =new ServiceConnection(){
@@ -107,21 +103,16 @@ public class OnBoardingScreen2 extends AppCompatActivity {
             mIsBound = false;
         }
     }
-
     @Override
     protected void onResume() {
         super.onResume();
-
         if (mServ != null) {
             mServ.resumeMusic();
         }
-
     }
-
     @Override
     protected void onPause() {
         super.onPause();
-
         PowerManager pm = (PowerManager)
                 getSystemService(Context.POWER_SERVICE);
         boolean isScreenOn = false;
@@ -142,5 +133,7 @@ public class OnBoardingScreen2 extends AppCompatActivity {
         Intent music = new Intent();
         music.setClass(this,MusicService.class);
         stopService(music);
+
     }
+
 }
